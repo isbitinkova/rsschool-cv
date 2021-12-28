@@ -35,6 +35,6 @@ At this time I work Customer Success Manager from medicine startup. My strong po
 
 ## Languages
 
-#### English - A2
+#### English - A2+
 #### Russian - native
 
