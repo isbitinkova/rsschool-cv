@@ -6,7 +6,7 @@
 #### Phone.: 79671470575
 #### GitHub: isbitinkova
 
-At this time I work Customer Success Manager from medicine startup. My strong points of character are tenacity, discipline and reliability. 
+Now I work as a Customer Success Manager for a medicine startup. Strengths of my character are tenacity, discipline and reliability. 
 
 ## Skills
 
