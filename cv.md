@@ -14,17 +14,17 @@ Now I work as a Customer Success Manager for a medicine startup. Strengths of my
 #### CSS3
 
 ## Code
-<pre><code>
-<<span>ol</span>>
-  <<span>li</span>>Профессия JavaScript
-    <<span>ul</span>>
-      <<span>li<span/>>Frontend<<span>/li</span>>
-      <<span>li</span>>Backend<<span>/li</span>>
-    <<span>/ul</span>>
-  <<span>/li</span>>
-  <<span>li</span>>Профессия PHP<<span>/li</span>>
-<<span>/ol</span>>
-</pre></code>
+```
+<ol>
+  <li>Профессия JavaScript
+    <ul>
+      <li>Frontend</li>
+      <li>Backend</li>
+    </ul>
+  </li>
+  <li>Профессия PHP</li>
+</ol>
+```
 
 
 ## Education
