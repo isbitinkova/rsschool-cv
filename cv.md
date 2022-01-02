@@ -26,7 +26,6 @@ Now I work as a Customer Success Manager for a medicine startup. Strengths of my
 </ol>
 ```
 
-
 ## Education
 
 #### At this time I am learning in RSSchool - 2022
