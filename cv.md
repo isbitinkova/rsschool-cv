@@ -3,7 +3,7 @@
 ## My contact info
 
 #### E-mail: irinasbitinkova@gmail.com
-#### Phone.: 79671470575
+#### Phone.: 7-967-147-0575
 #### GitHub: isbitinkova
 
 Now I work as a Customer Success Manager for a medicine startup. Strengths of my character are tenacity, discipline and reliability. 
